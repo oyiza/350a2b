@@ -86,12 +86,12 @@
 				WHERE id=".$_POST['contact_id'];
 				
 			if($conn->query($sql) == TRUE)
-				echo "<div class='alert alert-success' role='alert'><h1>Contact has been updated! </h1></br>You are being redirected
+				echo "<div class='alert alert-success' role='alert'><h1>Contact has been updated! </h1></br>You are being redirected 
 						  <a href='home.php' class='alert-link'>Home.</a>
 						</div>";
 			else
 				echo "<div class='alert alert-danger' role='alert'>Error updating contact :".$conn->error."
-						</div><a href='home.php class='alert-link'>Go Home.</a>";
+						</div><a href='home.php' class='alert-link'>Go Home.</a>";
 				
 			header("Refresh: 5; url=home.php");
 		 ?> 
