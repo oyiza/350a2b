@@ -6,7 +6,7 @@
 		<?php
 			$server = "zaaxu2ktd4.database.windows.net,1433";
             $user = "cmpt350_pie654";
-            $pwd = "Cmpt350!";
+            $pwd = "Usask2015";
             $db = "cmpt350_pie654";
 			
             try{
