@@ -133,7 +133,7 @@
 									<div class='form-group'>
 									  <label for='brithday' class='col-xs-3'>Birthday:</label>
 									  <div class='col-xs-8'>
-									  <input type='date' class='form-control'name='birthday' id='birthday'  >
+									  <input type='date' class='form-control'name='birthday' id='birthday'  value=" .$row["birthday"]. ">
 									</div></div>
 									<div class='form-group'>
 									  <label for='add_date' class='col-xs-3'>Date:</label>
