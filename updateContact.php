@@ -97,7 +97,7 @@
 									<div class='form-group'>
 									  <label for='fname' class='col-xs-3'>First Name:</label>
 									  <div class=' col-xs-8'>
-										<input type='text' class='form-control' name='fname' id='fanme' value='".$row["firstname"]."'>
+										<input type='text' class='form-control' name='fname' id='fname' value='".$row["firstname"]."'>
 									  </div>
 									</div>
 									<div class='form-group'>
