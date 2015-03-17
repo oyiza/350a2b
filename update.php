@@ -38,7 +38,8 @@
 	  <!--<img class="img-responsive  img-circle img-thumbnail" src="mike.jpg"> -->
         <h1 id="aname">Azure Address Book</h1>
 		<hr class="star-light">
-		<h3 id="title"> Author: mjl566</h3>
+		<h3 id="title"> Author: pie654</h3>
+		<p>with help from mjl566 and roh919<p>
    
       </div>
     </div>
