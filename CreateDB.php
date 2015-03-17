@@ -5,9 +5,9 @@
 	<body>
 		<?php
 			$server = "zaaxu2ktd4.database.windows.net,1433";
-			$user = "cmpt350_pie654";
-			$pwd = "Usask2015";
-			$db = "cmpt350_pie654";
+            $user = "cmpt350_pie654";
+            $pwd = "Cmpt350!";
+            $db = "cmpt350_pie654";
 			
             try{
                 $conn = new PDO( "sqlsrv:Server= $server ; Database = $db ", $user, $pwd);
