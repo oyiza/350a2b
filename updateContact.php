@@ -54,10 +54,10 @@
     <div class="container-fluid">
 		
 		<?php
-			$server = "tcp:gpntf5hrgo.database.windows.net,1433";
-			$user = "SQLAdmin";
-			$pwd = "henry0422!";
-			$db = "Assignment2";
+			$server = "zaaxu2ktd4.database.windows.net,1433";
+			$user = "cmpt350_pie654";
+			$pwd = "Usask2015";
+			$db = "cmpt350_pie654";
 			
 			try{
 				$conn = new PDO( "sqlsrv:Server= $server ; Database = $db ", $user, $pwd);
