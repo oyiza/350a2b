@@ -87,7 +87,7 @@
 				
 			if($conn->query($sql) == TRUE)
 				echo "<div class='alert alert-success' role='alert'><h1>Contact has been updated! </h1></br>You are being redirected
-						  <a href='home.php class='alert-link'>Home.</a>
+						  <a href='home.php'' class='alert-link'>Home.</a>
 						</div>";
 			else
 				echo "<div class='alert alert-danger' role='alert'>Error updating contact :".$conn->error."
