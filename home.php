@@ -68,7 +68,7 @@
 					<div class="form-group">
 					  <label for="fname" class="col-xs-3">First Name:</label>
 					  <div class=" col-xs-8">
-						<input type="text" class="form-control" name="fname" id="fanme" placeholder="Enter first name">
+						<input type="text" class="form-control" name="fname" id="fname" placeholder="Enter first name">
 					  </div>
 					</div>
 					<div class="form-group">
